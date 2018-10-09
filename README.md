@@ -4,10 +4,8 @@
 
 Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).
 
-To view my live link click here : https://github.com/nkamish/sass.git
 
-
-##The steps that you will need to follow while using SASS.
+## The steps that you will need to follow while using SASS.
 
 1. Firstly, download and install ruby if not installed. click this link to download ruby: https://rubyinstaller.org/ 
 2. Install sass on your local machine.
@@ -27,6 +25,10 @@ To view my live link click here : https://github.com/nkamish/sass.git
 6. Once the commands are completed, you will be able to work in your scss folder only. 
 
     Your command line will provide you with updates when you apply any changes using the scss file.
+
+## My Work
+
+    To view my live link click here: https://nkamish.github.io/sass/index.html
 
 ## Contributors
 
