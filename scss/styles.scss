@@ -1,0 +1,29 @@
+// Defining variables for sass
+
+// one line comments
+
+/*this is a multi line 
+comment*/
+
+// Variables
+
+$primary-color: blue;
+$font-size1: 3.125em;
+$font-size2: 2.125em;
+$text-color: chartreuse;
+
+// Baser styles
+
+body {
+    background-color: $primary-color;
+
+    h1 {
+        font-size: $font-size1;
+    }
+    p {
+        font-size: $font-size2;
+        color: $text-color;
+    }
+}
+
+
